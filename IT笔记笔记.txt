@@ -1,0 +1,90 @@
+音频文件格式：
+.wav   .snd   .au   .aif   .voc   .mp3   .ra   .mid/.rmi
+
+颜色三要素： 色调  饱和度  亮度
+颜色模型：RGB  CMY  YUV
+显示分辨率  图像分辨率  像素深度：像素点所需二进制位数  用来衡量色彩分辨率
+图像文件格式：
+.bmp   .jpg   .jpeg   .gif   .tif   .png   .wmf 
+
+
+随机同义句
+ 关键词表达
+
+
+《prompt》
+give me three little complicaty sentenses that often use in netrual life.And give me three sentences that have a similar meaning to each sentense above.
+
+ please give me three sentences that have a similar meaning to each sentense above.
+
+give me some sentense about word "complicate"
+--------------------------------
+ "Although I appreciate your perspective, I respectfully disagree with your opinion on the matter":
+
+"While I understand where you're coming from, I have a differing viewpoint on the issue."
+
+"I acknowledge your viewpoint, but I hold a contrasting opinion regarding this matter."
+
+"I respect your perspective, but I beg to differ in terms of my stance on this subject."
+
+--------------------------------
+Alternative sentences for "I'm contemplating pursuing higher education, but I'm still deliberating on which field of study to choose":
+
+"I'm currently considering furthering my education, but I'm still undecided on the specific academic path I should pursue."
+
+"I'm in the process of weighing the option of pursuing higher education, but I'm still in the midst of deliberating on my choice of study."
+
+"I'm contemplating the idea of pursuing a higher education degree, but I'm still uncertain about which field of study aligns best with my interests."
+
+--------------------------------
+Alternative sentences for "Due to unforeseen circumstances, we regret to inform you that the event has been postponed until further notice":
+
+"We deeply regret to inform you that, owing to unexpected circumstances, the event has been delayed indefinitely."
+
+"Unfortunately, the event has been postponed until further notice due to unforeseen circumstances, and we apologize for any inconvenience caused."
+
+"We are sorry to inform you that, due to unforeseen developments, the event has been rescheduled indefinitely, and we appreciate your understanding in this matter."
+
+
+
+
+Original Sentence: "Despite my best intentions, I inadvertently overlooked a crucial detail in the report, and I sincerely apologize for any confusion it may have caused."
+
+Alternative Sentence 1: "Regrettably, I unintentionally missed a critical element in the report, and I genuinely apologize for any resulting confusion."
+Alternative Sentence 2: "I must acknowledge that, despite my sincere efforts, I failed to notice an essential aspect in the report, and I apologize for any confusion it may have generated."
+Alternative Sentence 3: "I deeply regret overlooking a vital detail in the report, despite my genuine intentions, and I offer my sincere apologies for any confusion that may have ensued."
+Original Sentence: "The sheer magnitude of information available on the internet can be overwhelming, necessitating a discerning approach to filter and verify sources for accurate knowledge acquisition."
+
+Alternative Sentence 1: "The vast volume of information accessible on the internet can be daunting, thus requiring a discerning method to sift through and validate sources for acquiring accurate knowledge."
+Alternative Sentence 2: "Given the immense amount of information present on the internet, it becomes imperative to employ a discerning strategy in order to separate reliable sources and acquire accurate knowledge."
+Alternative Sentence 3: "The overwhelming abundance of information on the internet calls for a thoughtful approach to filtering and verifying sources to ensure the acquisition of accurate knowledge."
+Original Sentence: "Engaging in open dialogue and respectfully considering diverse perspectives can foster a more inclusive and enriching environment for constructive discourse and collective growth."
+
+Alternative Sentence 1: "Active participation in open conversations and the respectful consideration of diverse viewpoints can cultivate an inclusive and enriching atmosphere that promotes constructive discussions and collective development."
+Alternative Sentence 2: "By actively engaging in open dialogue and showing respect for diverse perspectives, we can create an inclusive and enriching environment that encourages constructive discourse and fosters collective growth."
+Alternative Sentence 3: "The act of participating in open discussions and approaching diverse perspectives with respect has the potential to create an inclusive and enriching environment that facilitates constructive conversations and promotes collective growth."
+
+
+
+Original Sentence: "Despite my best intentions, I inadvertently overlooked a crucial detail in the report, and I sincerely apologize for any confusion it may have caused."
+
+Alternative Sentence 1: "Inadvertently, I missed an important detail in the report, despite my genuine efforts, and I apologize for any resulting confusion."
+Alternative Sentence 2: "I regretfully failed to notice a crucial detail in the report, despite my best intentions, and I offer my sincere apologies for any confusion it may have caused."
+Alternative Sentence 3: "Unintentionally, I overlooked a critical aspect in the report, and I want to sincerely apologize for any confusion that may have arisen as a result."
+Original Sentence: "The sheer magnitude of information available on the internet can be overwhelming, necessitating a discerning approach to filter and verify sources for accurate knowledge acquisition."
+
+Alternative Sentence 1: "Given the overwhelming amount of information on the internet, it is important to adopt a discerning method to filter and verify sources in order to acquire accurate knowledge."
+Alternative Sentence 2: "The vast quantity of information available online can be daunting, requiring a careful approach to filtering and verifying sources to ensure the acquisition of accurate knowledge."
+Alternative Sentence 3: "Considering the immense volume of information accessible on the internet, it becomes crucial to employ a discerning approach in order to filter and verify sources for obtaining reliable knowledge."
+Original Sentence: "Engaging in open dialogue and respectfully considering diverse perspectives can foster a more inclusive and enriching environment for constructive discourse and collective growth."
+
+Alternative Sentence 1: "Active participation in open discussions and respectful consideration of diverse perspectives can create an inclusive and enriching environment that promotes constructive discourse and collective development."
+Alternative Sentence 2: "By actively engaging in open dialogue and demonstrating respect for diverse perspectives, we can cultivate an inclusive and enriching environment that encourages constructive discussions and fosters collective growth."
+Alternative Sentence 3: "Fostering an inclusive and enriching environment for constructive discourse and collective growth involves engaging in open dialogue and valuing diverse perspectives with respect."
+
+
+assemble   
+
+navigate 
+
+expected 
