@@ -12,4 +12,4 @@ give me three little complicaty sentenses that often use in netrual life.And giv
 3.再次用单词造句，再把句子理解的复述出来
 give me some sentense about word "complicate"
 
-另外有条件可以用onduku语音复述出来
+另外可以用onduku语音复述出来，进行跟读
