@@ -1,23 +1,17 @@
-音频文件格式：
-.wav   .snd   .au   .aif   .voc   .mp3   .ra   .mid/.rmi
-
-颜色三要素： 色调  饱和度  亮度
-颜色模型：RGB  CMY  YUV
-显示分辨率  图像分辨率  像素深度：像素点所需二进制位数  用来衡量色彩分辨率
-图像文件格式：
-.bmp   .jpg   .jpeg   .gif   .tif   .png   .wmf 
-
-
-随机同义句
- 关键词表达
-
 
 《prompt》
+
+1.随机造三个句子以及每个句子对应三个同义句，把句子理解的复述出来
 give me three little complicaty sentenses that often use in netrual life.And give me three sentences that have a similar meaning to each sentense above.
 
- please give me three sentences that have a similar meaning to each sentense above.
+2.解释不懂的单词
 
+3.再次用单词造句，再把句子理解的复述出来
 give me some sentense about word "complicate"
+
+另外有条件可以用onduku语音复述出来
+
+以下是未完成的句子及单词
 --------------------------------
  "Although I appreciate your perspective, I respectfully disagree with your opinion on the matter":
 
